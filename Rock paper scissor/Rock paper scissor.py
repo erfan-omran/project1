@@ -24,15 +24,11 @@ if player1_choose == rock and player2_choose == paper :
 if player1_choose == paper and player2_choose == rock :
     print('Player 1 win!')
 
-
 if player1_choose == paper and player2_choose == scissor :
     print('Player 2 win!')
-
     
 if player1_choose == scissor and player2_choose == paper :
     print('Player 1 win!')
 
-
 if player1_choose == scissor and player2_choose == rock :
     print('Player 2 win!')
-
